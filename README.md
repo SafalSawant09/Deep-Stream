@@ -46,11 +46,11 @@ To run this project locally, ensure you have Flutter installed and follow these 
    ```bash
    git clone [https://github.com/YOUR_USERNAME/focus-flow.git](https://github.com/YOUR_USERNAME/focus-flow.git)
 
-Install dependencies
+2. **Install dependencies**
    ```bash
    flutter pub get
 
-Run the app
+3. **Run the app**
    ```bash
    flutter run
 
