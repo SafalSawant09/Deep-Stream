@@ -44,7 +44,7 @@ To run this project locally, ensure you have Flutter installed and follow these 
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/focus-flow.git](https://github.com/YOUR_USERNAME/focus-flow.git)
+   git clone [https://github.com/SafalSawant09/Deep-Stream)
 
 2. **Install dependencies**
    ```bash
